@@ -6,3 +6,4 @@ let dato = 10
     }
 
     console.log(c)
+

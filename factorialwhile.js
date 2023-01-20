@@ -6,7 +6,7 @@ function getFactorialWhileLoop(n){
         n -= 1;
     }
     console.log(result)
-    return result;
+    
 }
 getFactorialWhileLoop(10);
 
